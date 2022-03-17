@@ -5,7 +5,7 @@ import com.google.common.math.IntMath
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
-@SpringBootApplication
+@SpringBootApplication()
 class SkbJavaApplication
 
 fun main(args: Array<String>) {
